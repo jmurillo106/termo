@@ -19,7 +19,7 @@ $data = file_get_contents("http://localhost/data.php");
 				$('#fixture').thermometer( {
 					startValue:24,
 					height: 300,
-					width: "200",
+					width: "100%",
 					bottomText: "5",
 					topText: "30",
 					animationSpeed: 1000,
