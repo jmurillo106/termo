@@ -22,7 +22,7 @@ $data = file_get_contents("http://localhost/data.php");
 					width: "100%",
 					bottomText: "5",
 					topText: "30",
-					animationSpeed: 100,
+					animationSpeed: 300,
 					maxValue: 30,
 					minValue: 0,
 					liquidColour: function( value ) {
